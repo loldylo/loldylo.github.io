@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "about typescript..."
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-04
+published: true
+labels:
+  - Software Engineering
+  - Learning
+---
+
 Beginning my journey with TypeScript has been both exciting and challenging. I have not taken any ICS courses recently due to scheduling conflicts and general education requirements, so returning to coding feels like starting fresh. Since I haven’t been practicing or refreshing my programming knowledge, picking up TypeScript has required some extra effort and adjustment.
 
 TypeScript, as an extension of JavaScript, introduces static typing, which has felt somewhat unfamiliar compared to the languages I have used in the past. Writing with types still feels a little awkward at times, but I recognize the benefits. From my perspective, TypeScript is an excellent language because its static typing makes programs easier to understand and debug. One of its greatest strengths is catching bugs early in the development process, before they become buried inside multiple layers of functions and harder to fix later on.
