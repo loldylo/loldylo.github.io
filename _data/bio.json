@@ -1,43 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dylan Dela Cruz",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/loldylo.png",
+    "email": "dylan65@hawaii.edu",
+    "phone": "",
+    "website": "https://loldylo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "location": { "address": "", "postalCode": "96791", "city": "Waialua", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "loldylo", "url": "http://github.com/loldylo" },
+      { "network": "linkedin", "username": "loldylo", "url": "http://linkedin.com/in/loldylo" },
+      { "network": "instagram", "username": "notdylo", "url": "http://instagram.com/notdylo" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Gym" },
+    { "name": "Money" },
+    { "name": "Educating" },
+    { "name": "Creating" },
+    { "name": "Tinkering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-05-25",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,23 +44,22 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Shabuya",
+      "position": "Busser",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-04-28",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Keep the restaurant clean."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "UH NetOps Tech",
+      "position": "NetOps Technician",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2024-05-28",
+      "endDate": "present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
