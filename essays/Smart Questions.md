@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "What's a Smart Question??"
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-10
+published: true
+labels:
+  - Software Engineering
+  - Educational
+---
+
 **Reflecting on Smart Questions**
 
 One of the things I’ve realized while studying software engineering is that communication really does matter—sometimes even more than raw coding ability. Eric Raymond’s essay *How to Ask Questions the Smart Way* makes this point clear: if you want good answers, you need to ask good questions. The developer/open source community thrives on back-and-forth problem solving, and the way you phrase your question can either make people eager to help or make them skip right past you. 
