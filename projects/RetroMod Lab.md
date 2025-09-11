@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/minecraftlog.png
+image: img/BootMii_NAND_Backup.png
 title: "Retro Modding"
 date: 2024
 published: true
@@ -10,7 +10,7 @@ labels:
   - Homebrew Deployment
   - Exploit Research
   - NAND Flashing
-summary: "Creating a Minecraft server"
+summary: "Creating a way to play retro games and learn how to modify firmwares on devices"
 ---
 
 ### **RetroMod Lab**
