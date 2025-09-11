@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: img/minecraftlog.png
+title: "A Minecraft Server"
+date: 2024
+published: true
+labels:
+  - Java
+  - Plugins
+summary: "Creating a Minecraft server"
+---
+
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 # **Minecraft Server Project**
 
 **Minecraft Server – Multiplayer Setup and Experimentation**
