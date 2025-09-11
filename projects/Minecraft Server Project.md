@@ -11,7 +11,7 @@ labels:
 summary: "Creating a Minecraft server"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/minecraftheader.png">
 
 # **Minecraft Server Project**
 
