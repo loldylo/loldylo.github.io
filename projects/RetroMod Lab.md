@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: img/minecraftlog.png
+title: "Retro Modding"
+date: 2024
+published: true
+labels:
+  - Custom Firmware
+  - Homebrew Deployment
+  - Exploit Research
+  - NAND Flashing
+summary: "Creating a Minecraft server"
+---
+
 ### **RetroMod Lab**
 
 **Console Modding and Homebrew Exploration**
