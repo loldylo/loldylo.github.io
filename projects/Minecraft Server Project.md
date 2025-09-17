@@ -8,6 +8,7 @@ published: true
 labels:
   - Java
   - Plugins
+  - Experience
 summary: "Creating a Minecraft server"
 ---
 
