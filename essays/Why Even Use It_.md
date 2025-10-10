@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Why Even Use It?"
+# All dates must be YYYY-MM-DD format!
+date: 2025-10-09
+published: true
+labels:
+  - Software Engineering
+  - Educational
+---
+
 **Why UI Frameworks Are Worth the Adventure**
 
 When I first dipped my toes into Bootstrap 5, I thought, “How hard could it be?” I was confident enough in my HTML and CSS skills, ready to cruise through, but the moment I started seeing  all those mysterious utility classes, it hit me: *this isn’t just a shortcut—it’s a whole new language\!* 
