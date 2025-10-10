@@ -6,8 +6,9 @@ title: "Why Even Use It?"
 date: 2025-10-09
 published: true
 labels:
-  - Software Engineering
-  - Educational
+  - Bootstrap
+  - UI
+  - Essay
 ---
 
 **Why UI Frameworks Are Worth the Adventure**
