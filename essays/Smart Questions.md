@@ -6,8 +6,9 @@ title: "What's a Smart Question??"
 date: 2025-09-10
 published: true
 labels:
+  - Questions
   - Software Engineering
-  - Educational
+  - Essay
 ---
 
 **Reflecting on Smart Questions**

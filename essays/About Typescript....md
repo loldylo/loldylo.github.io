@@ -6,8 +6,9 @@ title: "about typescript..."
 date: 2025-09-04
 published: true
 labels:
-  - Software Engineering
+  - Typescript
   - Learning
+  - Software Engineering
 ---
 
 Beginning my journey with TypeScript has been both exciting and challenging. I have not taken any ICS courses recently due to scheduling conflicts and general education requirements, so returning to coding feels like starting fresh. Since I haven’t been practicing or refreshing my programming knowledge, picking up TypeScript has required some extra effort and adjustment.
