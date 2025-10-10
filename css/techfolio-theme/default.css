@@ -48,3 +48,15 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+.project-card {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.project-card img {
+  max-width: 200px;
+  height: auto;
+}
+
