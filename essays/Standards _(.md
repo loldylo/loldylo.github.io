@@ -6,8 +6,9 @@ title: "Coding Standards :("
 date: 2025-09-20
 published: true
 labels:
+  - Coding Standards
   - Software Engineering
-  - Educational
+  - Essay
 ---
 
 
