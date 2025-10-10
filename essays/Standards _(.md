@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Coding Standards :("
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-20
+published: true
+labels:
+  - Software Engineering
+  - Educational
+---
+
+
 **Note-Taking Standards? I Thought Mine Were Fine**
 
 Let’s be real—when I first came across the concept of standardized note-taking, I almost laughed. It sounded meticulous, like folding every single corner of the paper just so, or highlighting with only one shade of neon. I figured all that mattered was having the material down somewhere, as long as I could find it later. But after diving into apps like Obsidian and trying out organizational templates, I started to realize there’s much more to it. Note-taking standards extend beyond neat handwriting or color-coding—they’re about consistency, accessibility, and even boosting how deeply I engage with what I’m learning.
