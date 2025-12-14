@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "Tracking Effort"
+# All dates must be YYYY-MM-DD format!
+date: 2025-12-10
+published: true
+labels:
+  - Learning
+  - Software Engineering
+---
 ## **Effort Tracking**
 
 ### **Approach to Time Estimation**
